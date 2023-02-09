@@ -1,4 +1,4 @@
-
+from graphics_library import *
 
 #Dimensions of the display window
 WINDOW_WIDTH = 800
