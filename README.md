@@ -11,8 +11,8 @@ I recommend setting your students up with PyCharm as their first IDE, as it is s
 
 ## Dependencies
 
-* [Python 3.8 (or higher)](https://www.python.org/downloads/)
-* PyQt, for graphics use only (use command: pip3 install PyQt5==5.12)
+* [Python 3.8 or 3.9](https://www.python.org/downloads/release/python-3913/) (versions of Python 3.10 and higher will have trouble with PyQt5)
+* PyQt, for graphics use only (use command: pip3 install PyQt5)
 
 # Modules
 
